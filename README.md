@@ -24,7 +24,7 @@
 </br>
 <br>
 
-### 💬 Ask me about anything, I'll be happy to help: </br>
+### 💬 Ask me about anything: </br>
 <br> 
   <a href="https://www.linkedin.com/in/yunjian-lu-826b20144/">
    <img align="left" alt="Yunjian | Linkedin" width="80px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />

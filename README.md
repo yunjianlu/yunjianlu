@@ -9,7 +9,7 @@
 - ⚡ Fun fact: Exciting to Star a New Journey!
 
 
-***I am willing to collaborate as a team player building better code.***
+***I am willing to collaborate as a team player building better codes.***
 
 ### ✨ Language and Tools: 
 
@@ -24,7 +24,7 @@
 </br>
 <br>
 
-### 💬 Ask me about anything: </br>
+#### 💬 Ask me about anything: </br>
 <br> 
   <a href="https://www.linkedin.com/in/yunjian-lu-826b20144/">
    <img align="left" alt="Yunjian | Linkedin" width="80px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />

@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently studying on MS of Computer Science at California State University- Los Angles
-- 🌱 I’m currently learning Artificial Intelligence
-- 👯 I’m looking to collaborate on building a broswer extension to reduce carbon footprint 
+- 🌱 I’m currently learning Artificial Intelligence & Data Science
+- 👯 I’m looking for entries level & internship opportunities
 - 🤔 I’m looking for help with React
 - 💬 Ask me about Nutrition
 - ⚡ Fun fact: Exciting to Star a New Journey!

@@ -24,11 +24,13 @@
 <code><a href="https://reactjs.org//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 </br>
 
+<br>
+</br>
 #### 💬 My Projects: 
 
 <br>
 <code><a href="https://simmer.io/@Peterlu/garbage-hunterbeta" target="_blank">:video_game: 
-  ## </a> Garbage Hunter</code>
+</a> Garbage Hunter</code>
 </br>
 
 ##### � Ask me about anything: </br>

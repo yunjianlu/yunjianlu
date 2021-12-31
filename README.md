@@ -6,7 +6,7 @@
 - 👯 I’m looking for entries level & internship opportunities
 - 🤔 I’m looking for help with React
 - 💬 Ask me about Nutrition
-- ⚡ Fun fact: Exciting to Star a New Journey!
+- ⚡ Fun fact: Through innovation, we may excape from the sixth extinction 
 
 
 ***I am willing to collaborate as a team player building better codes.***

@@ -8,12 +8,12 @@
 - 💬 Ask me about Nutrition
 - ⚡ Fun fact: Through innovation, we may excape from the sixth extinction 
 
-# I am willing to collaborate as a team player building better codes.***
+## I am willing to collaborate as a team player building better codes.***
 <br />
 
 <br>
 
-### ✨ Language and Tools: 
+### ✨ My Language and Tools: 
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.java.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
@@ -25,8 +25,6 @@
 <code><a href="https://reactjs.org//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 </br>
 <br />
-
-
 
 ### 💬 My Projects: 
 <br> :video_game: <code><a href="https://simmer.io/@Peterlu/garbage-hunterbeta" target="_blank"> 

@@ -22,12 +22,12 @@
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="https://reactjs.org//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-
 </br>
-<br>
 
 <br>
-#### 💬 My Projects: </br>
+#### 💬 My Projects: 
+</br>
+
 <br>
 <code><a href="https://simmer.io/@Peterlu/garbage-hunterbeta" target="_blank">:video_game: 
   ## </a> Garbage Hunter</code>

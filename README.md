@@ -27,12 +27,10 @@
  **Garbage Hunter**  </a> </code> 
 
 ##### � Ask me about anything: </br>
-<br> 
   <a href="https://www.linkedin.com/in/yunjian-lu-826b20144/">
    <img align="left" alt="Yunjian | Linkedin" width="80px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
   </a>
   <a href="mailto:yunjian.lu@gmail.com">
     <img align="left" alt="Yunjian | Gmail" width="40px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
-<br>
 

@@ -29,7 +29,8 @@
 <br>
 ##### 💬 My Projects: </br>
 <br>
-<code><a href="https://simmer.io/@Peterlu/garbage-hunterbeta" target="_blank"><img height="50" src="https://image.flaticon.com/icons/png/512/1581/1581943.png"></a> Garbage Hunter</code>
+<code><a href="https://simmer.io/@Peterlu/garbage-hunterbeta" target="_blank">:video_game: 
+  </a> Garbage Hunter</code>
 </br>
 
 ##### � Ask me about anything: </br>

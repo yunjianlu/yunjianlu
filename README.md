@@ -25,8 +25,8 @@
 <br />
 
 ### 💬 My Projects: 
-:video_game: ** <code><a href="https://simmer.io/@Peterlu/garbage-hunterbeta" target="_blank"> 
- Garbage Hunter  </a> </code> **
+:video_game: <code><a href="https://simmer.io/@Peterlu/garbage-hunterbeta" target="_blank"> 
+ **Garbage Hunter**  </a> </code> 
 
 ##### � Ask me about anything: </br>
 <br> 

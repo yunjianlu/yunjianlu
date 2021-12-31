@@ -27,10 +27,10 @@
 <br>
 
 <br>
-##### 💬 My Projects: </br>
+#### 💬 My Projects: </br>
 <br>
 <code><a href="https://simmer.io/@Peterlu/garbage-hunterbeta" target="_blank">:video_game: 
-  </a> Garbage Hunter</code>
+  ## </a> Garbage Hunter</code>
 </br>
 
 ##### � Ask me about anything: </br>

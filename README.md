@@ -12,9 +12,7 @@
 <br />
 
 <br>
-
 ### ✨ My Language and Tools: 
-
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.java.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
@@ -27,7 +25,7 @@
 <br />
 
 ### 💬 My Projects: 
-<br> :video_game: <code><a href="https://simmer.io/@Peterlu/garbage-hunterbeta" target="_blank"> 
+<br>#  :video_game: <code><a href="https://simmer.io/@Peterlu/garbage-hunterbeta" target="_blank"> 
 Garbage Hunter  </a> </code>
 </br>
 <br />

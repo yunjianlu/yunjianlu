@@ -8,7 +8,7 @@
 - 💬 Ask me about Nutrition
 - ⚡ Fun fact: Through innovation, we may excape from the sixth extinction 
 
-## I am willing to collaborate as a team player building better codes.***
+## I am s a team player working to build a better.***
 <br />
 
 ### ✨ My Language and Tools: 

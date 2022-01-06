@@ -17,7 +17,6 @@
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></a></code>
 
-<br />
  ### ✨ My Tools: 
  <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>

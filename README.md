@@ -23,6 +23,7 @@
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 <code><a href="https://reactjs.org//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="https://unity.com/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/unity-technologies-logo.svg"></a></code>
 
 
 ### ✨ My Projects: 

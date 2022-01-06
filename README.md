@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 - 🔭 I’m currently studying on MS of Computer Science at California State University- Los Angles
 - 🌱 I’m currently learning Artificial Intelligence & Data Science
 - 👯 I’m looking for entries level & internship opportunities
@@ -8,7 +7,7 @@
 - 💬 Ask me about Nutrition
 - ⚡ Fun fact: Through innovation, we may excape from the sixth extinction 
 
-## I am a team player working to build a better.***
+## ✨ I am a team player working to build a better program.
 <br />
 
 ### ✨ My Language:
@@ -25,7 +24,7 @@
 <code><a href="https://reactjs.org//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 
 
-### 💬 My Projects: 
+### ✨ My Projects: 
 :video_game: <code><a href="https://simmer.io/@Peterlu/garbage-hunterbeta" target="_blank"> 
  **Garbage Hunter**  </a> </code> 
 <br />

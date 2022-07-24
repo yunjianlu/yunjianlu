@@ -7,7 +7,7 @@
 - 💬 Ask me about Nutrition
 - ⚡ Fun fact: Through innovation, we may excape from the sixth extinction 
 
-## ✨ I am a team player working to build a better program.
+## ✨ I am a Sulution Architect Intern at Amazon Web Services(AWS)
 <br />
 
 ### ✨ My Languages:

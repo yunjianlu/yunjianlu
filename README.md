@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying on MS of Computer Science at California State University- Los Angles
-- 🌱 I’m currently learning Artificial Intelligence & Data Science
-- 👯 I’m looking for entries level & internship opportunities
+- 🌱 I’m currently learning Kubernetes & AI/ML
+- 👯 I’m in the SF Bay Area
 - 🤔 I’m looking for help with React
-- 💬 Ask me about Nutrition
-- ⚡ Fun fact: Through innovation, we may excape from the sixth extinction 
+- 💬 Ask me about Nutrition & Abaminton
+- ⚡ Fun fact: Through innovation, we may escape from the sixth extinction 
 
 ## ✨ I am a Sulution Architect Intern at Amazon Web Services(AWS)
 <br />

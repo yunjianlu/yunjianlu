@@ -6,7 +6,7 @@
 - 💬 Ask me about Nutrition & Abaminton
 - ⚡ Fun fact: Through innovation, we may escape from the sixth extinction 
 
-## ✨ I am a Sulution Architect Intern at Amazon Web Services(AWS)
+## ✨ I am an Engineering Solution Architect at Amazon Web Services(AWS)
 <br />
 
 ### ✨ My Languages:

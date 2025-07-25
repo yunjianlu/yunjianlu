@@ -1,5 +1,5 @@
 ### Hi there 👋
-## ✨ I am an Engineering Solution Architect at Amazon Web Services(AWS)
+## ✨ I am an Engineering Solution Architect at Amazon(AWS)
 
 - 🤔 I’m looking for an SDE role.
 - 🌱 I’m currently learning Next.js & AI/ML.

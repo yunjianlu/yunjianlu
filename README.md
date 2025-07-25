@@ -1,12 +1,12 @@
 ### Hi there 👋
 ## ✨ I am an Engineering Solution Architect at Amazon Web Services(AWS)
-<br />
-- 🤔 I’m looking for an SDE role.
-- 🌱 I’m currently learning Next.js & AI/ML.
-- 👯 I’m in the SF Bay Area.
-- 💬 Ask me about Nutrition & Abaminton.
-- ⚡ Fun fact: Through innovation, we may escape from the sixth extinction.
 
+# - 🤔 I’m looking for an SDE role.
+# - 🌱 I’m currently learning Next.js & AI/ML.
+# - 👯 I’m in the SF Bay Area.
+# - 💬 Ask me about Nutrition & Abaminton.
+# - ⚡ Fun fact: Through innovation, we may escape from the sixth extinction.
+<br />
 
 
 ### ✨ My Languages:

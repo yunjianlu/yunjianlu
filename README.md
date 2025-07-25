@@ -6,6 +6,9 @@
 - 👯 I’m in the SF Bay Area.
 - 💬 Ask me about Nutrition & Abaminton.
 -  Fun fact: Through innovation, we may escape from the sixth extinction.
+ 
+### ✨ My Projects: 
+:video_game: <code><a href="https://github.com/JeffreyLum/CS4555-3D-Game-Project" target="_blank">**Garbage Hunter**</a></code> 
 <br />
 
 
@@ -25,10 +28,6 @@
 <code><a href="https://unity.com/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/unity-technologies-logo.svg"></a></code>
 
 
-### ✨ My Projects: 
-:video_game: <code><a href="https://github.com/JeffreyLum/CS4555-3D-Game-Project" target="_blank"> 
- **Garbage Hunter**  </a> </code> 
-<br />
 
 ##### � Ask me about anything: </br>
   <a href="https://www.linkedin.com/in/yunjian-lu-826b20144/">

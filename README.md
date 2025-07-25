@@ -1,13 +1,13 @@
 ### Hi there 👋
-
-- 🌱 I’m currently learning Kubernetes & AI/ML
-- 👯 I’m in the SF Bay Area
-- 🤔 I’m looking for help with React
-- 💬 Ask me about Nutrition & Abaminton
-- ⚡ Fun fact: Through innovation, we may escape from the sixth extinction 
-
 ## ✨ I am an Engineering Solution Architect at Amazon Web Services(AWS)
 <br />
+- 🤔 I’m looking for an SDE role.
+- 🌱 I’m currently learning Next.js & AI/ML.
+- 👯 I’m in the SF Bay Area.
+- 💬 Ask me about Nutrition & Abaminton.
+- ⚡ Fun fact: Through innovation, we may escape from the sixth extinction.
+
+
 
 ### ✨ My Languages:
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>

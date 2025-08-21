@@ -8,8 +8,7 @@
 -  Fun fact: Through innovation, we may escape from the sixth extinction.
  
 ### ✨ My Projects: 
-:globe_with_meridians: <code><a href="https://github.com/JeffreyLum/CS4555-3D-Game-Project](https://github.com/yunjianlu/lightyear
-" target="_blank">**Lighyear Shop - 3 tires Web App**</a></code> 
+:globe_with_meridians: <code><a href="https://github.com/yunjianlu/lightyear" target="_blank">**Lighyear Shop - 3 Tires Web App**</a></code> 
 
 <br />
 
